@@ -1,4 +1,4 @@
-Title: Google Pay Expense Sharing(GPES)
+Title: Google Pay Expense Sharing System(GPESS)
 
 Technology Stack:
 
